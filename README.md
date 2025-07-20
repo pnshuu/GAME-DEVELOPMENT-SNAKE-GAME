@@ -18,6 +18,6 @@
                3.c++ standaerd library 
 OUTPUT- 
 
-![Uploading snakegame.png…]()
+https://github.com/pnshuu/GAME-DEVELOPMENT-SNAKE-GAME/issues/1#issue-3246287107
 
                
